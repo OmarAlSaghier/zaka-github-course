@@ -1,8 +1,8 @@
 def print_hello_again():
-    print("Hello Again!")
+    print("Hello Again from github!")
 
 def print_done():
-    print("Done!")
+    print("Done from github!")
 
 print_hello_again()
 print_done()
